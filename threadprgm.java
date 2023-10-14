@@ -21,6 +21,6 @@ class threadprgm
     public static void main(String asd[])
     {
         sample obj=new sample();
-        // System.out.println("Main method"+Thread.getName());
+        
     }
 }
